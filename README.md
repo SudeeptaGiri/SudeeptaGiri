@@ -41,6 +41,6 @@
 
 <h1></h1>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sudeeptagiri&show_icons=true&theme=radical" alt="sudeeptagiri" />
-<img align="right" src="https://streak-stats.demolab.com/?user=sudeeptagiri&theme=dark" alt="sudeeptagiri" />
+<p><img float="left" src="https://github-readme-stats.vercel.app/api?username=sudeeptagiri&show_icons=true&theme=radical" alt="sudeeptagiri" />
+<img float="right" src="https://streak-stats.demolab.com/?user=sudeeptagiri&theme=dark" alt="sudeeptagiri" />
 </p>
