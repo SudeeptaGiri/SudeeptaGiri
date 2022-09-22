@@ -29,7 +29,7 @@
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" /> </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
-<!-- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" /> </a> -->
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" /> </a> 
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" /> </a>
 
 </p>
@@ -41,6 +41,6 @@
 
 <h1></h1>
 
-<p><img float="left" src="https://github-readme-stats.vercel.app/api?username=sudeeptagiri&show_icons=true&theme=radical" alt="sudeeptagiri" />
-<img float="right" src="https://streak-stats.demolab.com/?user=sudeeptagiri&theme=dark" alt="sudeeptagiri" />
-</p>
+|![Graph1](https://github-readme-stats.vercel.app/api?username=sudeeptagiri&show_icons=true&theme=radical) | ![Graph2](https://streak-stats.demolab.com/?user=sudeeptagiri&theme=dark) |
+| :--: | :--: |
+
