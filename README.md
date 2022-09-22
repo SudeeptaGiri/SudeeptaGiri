@@ -19,7 +19,7 @@
 <!-- <a href="mailto:sudeeptagiri.11@gmail.com?" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sudeepta_giri" /></a> -->
 </p>
 
-# **Languages and Tools:**
+# **Languages and Tools :**
 
 <p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a>
@@ -34,7 +34,7 @@
 
 </p>
 
-<h1><b>GitHub Overview:</b></h1>
+<h1><b>GitHub Overview :</b></h1>
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sudeeptagiri&theme=react-dark" alt="sudeeptagiri"> 
 </p>
