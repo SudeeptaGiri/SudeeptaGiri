@@ -36,7 +36,7 @@
 
 <h1><b>GitHub Overview :</b></h1>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sudeeptagiri&theme=react-dark" alt="sudeeptagiri"> 
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=SudeeptaGiri&theme=react-dark" alt="sudeeptagiri"> 
 </p>
 
 <h1></h1>
