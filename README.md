@@ -1,4 +1,4 @@
-# Namaste I'm Sudeepta 🙏🏻
+# Namaste, I'm Sudeepta 🙏🏻
 <img src="https://raw.githubusercontent.com/SudeeptaGiri/SudeeptaGiri/main/ReadMe.gif" alt="give alternate name if image doesn't load" align="right" width="190">
 -🔭 Currently, I am Focusing on improving my development skills.<br>
 -🌱 I am currently learning DevOps While Improving my Communication.<br>
