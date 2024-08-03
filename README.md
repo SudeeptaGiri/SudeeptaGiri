@@ -1,11 +1,11 @@
 # Namaste I'm Sudeepta 🙏🏻
 <img src="https://raw.githubusercontent.com/SudeeptaGiri/SudeeptaGiri/main/ReadMe.gif" alt="give alternate name if image doesn't load" align="right" width="190">
--🔭 Currently, I am working on improving my developer skills.<br>
--🌱 I am currently learning Supabase.<br>
+-🔭 Currently, I am Focusing on improving my development skills.<br>
+-🌱 I am currently learning DevOps While Improving my Communication.<br>
 -👯 I am interested in collaborating on open-source projects.<br>
--💬 Feel free to ask me about anything.  I am always happy to learn more.<br>
+-💬 I am open to discussing projects and connect with fellow learners<br>
 -📫 You can reach me at sudeeptagiri.11@gmail.com.<br>
--⚡ Fun Fact: I love playing Chess.<br><br>
+-⚡ I love to watch anime in my spare time.<br><br>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/SudeeptaGiri/count.svg)
