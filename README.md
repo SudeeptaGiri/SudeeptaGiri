@@ -1,9 +1,7 @@
-<img src="https://github.com/StarKnightt/StarKnightt/assets/92244026/88aa0fff-389b-4d45-9724-6f6e8a58526c" alt="give alternate name if image doesn't load" align="right" width="190">
+<img src="https://raw.githubusercontent.com/SudeeptaGiri/SudeeptaGiri/main/ReadMe.gif" alt="give alternate name if image doesn't load" align="right" width="190">
 <div>
 
 ![Visitor Count](https://profile-counter.glitch.me/SudeeptaGiri/count.svg)
-
-
 
 
 [![wakatime](https://wakatime.com/badge/user/d27d27da-dc32-4c1b-a703-f654f4050105.svg)](https://wakatime.com/@d27d27da-dc32-4c1b-a703-f654f405010)
