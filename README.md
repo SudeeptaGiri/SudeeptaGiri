@@ -14,7 +14,13 @@
 ## Coding Status: 
 <!--START_SECTION:waka-->
 
+```txt
+From: 02 August 2024 - To: 03 August 2024
 
+Total Time: 18 mins
+
+JavaScript   8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.00 %
+```
 
 <!--END_SECTION:waka-->
 
