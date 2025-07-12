@@ -34,7 +34,7 @@ Java Properties   59 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 ## Skills - Language and tools
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,javascript,nodejs,expressjs,mongo,react,tailwind,mysql,git,github,vscode,postman,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,javascript,nodejs,expressjs,mongo,angular,react,tailwind,mysql,git,aws,github,vscode,postman,linux&theme=light)](https://skillicons.dev)
 <!--social stats -->
 
 
